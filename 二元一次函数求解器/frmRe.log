@@ -1,0 +1,16 @@
+行 13: 控件 MAPISession1 的类 MSMAPI.MAPISession 不是一个已加载的控件类。
+行 23: 控件 MAPIMessages1 的类 MSMAPI.MAPIMessages 不是一个已加载的控件类。
+行 16: 属性名 _ExtentX 在 MAPISession1 中是无效的。
+行 17: 属性名 _ExtentY 在 MAPISession1 中是无效的。
+行 18: 属性名 _Version 在 MAPISession1 中是无效的。
+行 19: 属性名 DownloadMail 在 MAPISession1 中是无效的。
+行 20: 属性名 LogonUI 在 MAPISession1 中是无效的。
+行 21: 属性名 NewSession 在 MAPISession1 中是无效的。
+行 26: 属性名 _ExtentX 在 MAPIMessages1 中是无效的。
+行 27: 属性名 _ExtentY 在 MAPIMessages1 中是无效的。
+行 28: 属性名 _Version 在 MAPIMessages1 中是无效的。
+行 29: 属性名 AddressEditFieldCount 在 MAPIMessages1 中是无效的。
+行 30: 属性名 AddressModifiable 在 MAPIMessages1 中是无效的。
+行 31: 属性名 AddressResolveUI 在 MAPIMessages1 中是无效的。
+行 32: 属性名 FetchSorted 在 MAPIMessages1 中是无效的。
+行 33: 属性名 FetchUnreadOnly 在 MAPIMessages1 中是无效的。

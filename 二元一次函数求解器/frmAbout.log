@@ -1,0 +1,10 @@
+行 31: 控件 dcButton3 的类 黑马按钮控件.dcButton 不是一个已加载的控件类。
+行 52: 控件 dcButton4 的类 黑马按钮控件.dcButton 不是一个已加载的控件类。
+行 37: 属性名 _ExtentX 在 dcButton3 中是无效的。
+行 38: 属性名 _ExtentY 在 dcButton3 中是无效的。
+行 40: 属性名 ButtonStyle 在 dcButton3 中是无效的。
+行 41: 属性名 Caption 在 dcButton3 中是无效的。
+行 58: 属性名 _ExtentX 在 dcButton4 中是无效的。
+行 59: 属性名 _ExtentY 在 dcButton4 中是无效的。
+行 61: 属性名 ButtonStyle 在 dcButton4 中是无效的。
+行 62: 属性名 Caption 在 dcButton4 中是无效的。

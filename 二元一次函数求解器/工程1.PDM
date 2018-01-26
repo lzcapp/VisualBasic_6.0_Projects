@@ -1,0 +1,97 @@
+[Root]
+Most Recent Package=标准安装软件包 1
+
+
+[Package|标准安装软件包 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\罗子琛\编程开发\visual basic\程序文件\二元一次函数求解器\包
+
+[Package|标准安装软件包 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|标准安装软件包 1|Files Found]
+
+[Package|标准安装软件包 1|Files Released]
+
+[Package|标准安装软件包 1|Missing Dependency Information]
+C:\Windows\System32\hmButton.ocx=
+
+[Package|标准安装软件包 1|Out-of-Date Dependency Information]
+
+[Package|标准安装软件包 1|Files Added]
+
+[Package|标准安装软件包 1|Files Removed]
+
+[Package|标准安装软件包 1|Files In Project]
+D:\罗子琛\编程开发\visual basic\程序文件\二元一次函数求解器\二次函数求解器.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6CHS.DLL=Yes
+C:\Windows\System32\msmapi32.Ocx=Yes
+C:\Windows\System32\MSMPICHS.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Windows\System32\hmButton.ocx=Yes
+
+[Package|标准安装软件包 1|Configure Registry Files]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure Remote Servers]
+Applicable=No
+
+[Package|标准安装软件包 1|Install Locations]
+D:\罗子琛\编程开发\visual basic\程序文件\二元一次函数求解器\二次函数求解器.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6CHS.DLL=$(WinSysPath)
+C:\Windows\System32\msmapi32.Ocx=$(WinSysPath)
+C:\Windows\System32\MSMPICHS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Windows\System32\hmButton.ocx=$(WinSysPath)
+
+[Package|标准安装软件包 1|Configure Shared Files]
+Applicable=Yes
+D:\罗子琛\编程开发\visual basic\程序文件\二元一次函数求解器\二次函数求解器.exe=No
+
+[Package|标准安装软件包 1|Distribution]
+Type=single
+Size=1.44 MB
+Title=二次函数求解器
+
+[Package|标准安装软件包 1|Package]
+PackageFolder=D:\罗子琛\编程开发\visual basic\程序文件\二元一次函数求解器\包
+ProjectFolder=D:\罗子琛\编程开发\visual basic\程序文件\二元一次函数求解器
+ServerSideCab=
+File1=D:\罗子琛\编程开发\visual basic\程序文件\二元一次函数求解器\包\setup.exe
+File2=D:\罗子琛\编程开发\visual basic\程序文件\二元一次函数求解器\包\Setup.Lst
+File3=D:\罗子琛\编程开发\visual basic\程序文件\二元一次函数求解器\包\二次函数求解器.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|标准安装软件包 1|IconGroups]
+Group0=二次函数求解器
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|标准安装软件包 1|二次函数求解器]
+Icon1=二次函数求解器.exe
+Title1=二次函数求解器
+StartIn1=$(AppPath)
+Key1=Icon1
