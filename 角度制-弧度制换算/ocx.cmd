@@ -1,1 +1,0 @@
-regsvr32 C:\Windows\System32\hmButton.ocx
