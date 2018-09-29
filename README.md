@@ -8,4 +8,4 @@ Notice: It's not compatible with **Visual Basic .NET**.
 ## Prerequisites for Executing
 Register the `hmButton.ocx` first: <br/>
 Execute the following command in elevated `CMD` (running as an `administrator`) <br/>
-`regsvr32 C:\Users\rainy\Programming\VisualBasic_6.0_Projects\hmButton.ocx`
+C:\WINDOWS\system32>`regsvr32 C:\Users\rainy\Programming\VisualBasic_6.0_Projects\hmButton.ocx`
